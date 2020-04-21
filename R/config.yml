@@ -1,0 +1,35 @@
+default:
+  STATISTIC: mean
+  YEAR: 2018
+  DNB_grd: daily_DNB.grd
+  original_DNB_grd: original_daily_DNB.grd
+  EXTENTS: extents.csv
+
+
+Mykonos:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h20v05
+  
+Santorini:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h20v05
+  
+Kea:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Aegina:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Skiathos:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Nafplio:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Athens:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Sifnos:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
+Hydra:
+  DNB_geotiffs_DIR: BlackMarble_VNP46A1_BIG_BRDF_vnp43ma4v001_h19v05
+  
